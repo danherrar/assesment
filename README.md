@@ -6,7 +6,7 @@ requirements:
 
 installation:
 go to the project directory and run "python3 -m venv" after de python environment is created use "source ./<env_name>/bin/activate" ,
-then run "pip install -r requirements.txt" once the installation is completed you should be able to run "python manage.py runserver"
+then run "pip install -r requirements.txt" once the installation is completed you should be able to run the server with"python manage.py runserver"
 and you are ready to go :D
 
 migrations:
