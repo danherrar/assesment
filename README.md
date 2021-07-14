@@ -20,5 +20,5 @@ uploading:
 to upload a a csv file run the django server and go to localhost
 
 fetching data:
-getting data trough the API can be done with this endpoint "http://localhost/store/?<zub_id=int>" probiding the zubale id of the store
+getting data trough the API can be done with this endpoint "http://localhost/store/?<zub_id=int>" providing the zubale id of the store
 it will return store description and all information about the location of the store
