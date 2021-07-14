@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Zubale stores</title>
+  </head>
+  <body>
+    <h1>UPLOAD REPORT:</h1>
+    <form method="POST" action="" enctype="multipart/form-data">{% csrf_token %}
+      <p><input type="file" name="file"></p>
+      <p><input type="submit" value="Submit"></p>
+    </form>
+  </body>
+</html>
