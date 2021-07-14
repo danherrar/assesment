@@ -1,6 +1,7 @@
 CSV_MANAGER
 
 REQUIREMENTS:
+
 - python 3.6.8 or greater 
 - venv module
 
